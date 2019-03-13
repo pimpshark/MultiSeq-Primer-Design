@@ -1,4 +1,4 @@
-# Multiple Primer Design
+# Multiple Sequence Primer Design
 
 Easily create a list of primers for any number of sequences specified inside of a BED file
 
