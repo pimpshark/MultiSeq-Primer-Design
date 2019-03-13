@@ -4,7 +4,7 @@ Easily create a list of primers for any number of sequences specified inside of 
 
 ## Example Usage
 
-`./primer.sh input.bed genome output.tsv`
+`./mult-primer.sh input.bed genome output.tsv`
 
 This script takes in three arguments, a path to some BED file with sequences, a path to a genome which the BED files correspond to, and a destination path where the output will be saved. The output is by default saved as a tsv file.
 
